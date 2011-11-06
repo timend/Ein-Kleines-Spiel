@@ -7,6 +7,12 @@ namespace Ein_Kleines_Spiel
 {
     class AngriffAktion : RundenAktion
     {
+        public AngriffAktion(Charakter charakter)
+            : base(charakter)
+        {
+            
+        }
+
         public override int RundenKraft()
         {
             return charakter.Kraft;

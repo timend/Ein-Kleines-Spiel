@@ -34,6 +34,12 @@ namespace Ein_Kleines_Spiel
             txtLog.SelectionStart = txtLog.Text.Length - 1;
             txtLog.SelectionLength = 0;
             txtLog.ScrollToCaret();
-        }       
+        }
+
+        public void aktualisiereAnzeige()
+        {
+            ctnSpieler.zeigeCharakterAn();
+            ctnGegner.zeigeCharakterAn();
+        }
     }
 }

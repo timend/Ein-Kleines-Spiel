@@ -39,11 +39,14 @@ namespace Ein_Kleines_Spiel
             {
                 picEreignis.Image = Image.FromFile(aktion.BildName());
             }
+            picEreignis.Invalidate();
+            picEreignis.Update();
         }
 
         private void Spieler_Load(object sender, EventArgs e)
         {
-            SetzeEreignisseEnabled(true);            
+            SetzeEreignisseEnabled(false);
+            zeigeAktionAn(null);
         }
 
         public RundenAktion Runde()
@@ -51,33 +54,30 @@ namespace Ein_Kleines_Spiel
             aktion = null;
 
             zeigeCharakterAn();
-            zeigeAktionAn(null);
             SetzeEreignisseEnabled(true);
 
             do
             {
                 Application.DoEvents();
             } 
-            while (aktion != null);
+            while (aktion == null);
 
-            zeigeAktionAn(aktion);
             return aktion;
         }
-
           
     
         private void btnSpezial_Click(object sender, EventArgs e)
         {
-            aktion = new SpezialAktion();           
+            aktion = new SpezialAktion(charakter);           
         }
 
         private void btnBlock_Click(object sender, EventArgs e)
         {
-            aktion = new VerteidigungAktion();                    
+            aktion = new VerteidigungAktion(charakter);                    
         }
         private void btnAngriff_Click(object sender, EventArgs e)
         {
-            aktion = new AngriffAktion();
+            aktion = new AngriffAktion(charakter);
         }        
 
         private void SetzeEreignisseEnabled(bool enabled)

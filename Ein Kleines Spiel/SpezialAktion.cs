@@ -7,6 +7,12 @@ namespace Ein_Kleines_Spiel
 {
     public class SpezialAktion : RundenAktion
     {
+        public SpezialAktion(Charakter charakter)
+            : base(charakter)
+        {
+            
+        }
+
         public override int RundenKraft()
         {
             Random r = new Random();

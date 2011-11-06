@@ -10,6 +10,11 @@ namespace Ein_Kleines_Spiel
     {
         public Charakter charakter;
 
+        public RundenAktion(Charakter charakter)
+        {
+            this.charakter = charakter;
+        }
+
         public abstract int RundenKraft();
         public abstract int RundenSchild();
 

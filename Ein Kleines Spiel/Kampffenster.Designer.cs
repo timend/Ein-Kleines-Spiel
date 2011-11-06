@@ -74,8 +74,8 @@
 
         #endregion
 
-        private Kampfsteuerung ctnGegner;
         private System.Windows.Forms.TextBox txtLog;
         public Kampfsteuerung ctnSpieler;
+        public Kampfsteuerung ctnGegner;
     }
 }

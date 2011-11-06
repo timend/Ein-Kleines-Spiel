@@ -23,14 +23,19 @@ namespace Ein_Kleines_Spiel
         public void Kampf(Charakter Gegner)
         {
             Kampffenster kampffenster = new Kampffenster(Spieler, Gegner);
-            kampffenster.ShowDialog();
+            kampffenster.Show();
 
             Spieler.steuerung = kampffenster.ctnSpieler;            
 
             while (!Spieler.istTot() && !Gegner.istTot())
             {
+                kampffenster.aktualisiereAnzeige();
+
                 RundenAktion spielerAktion = Spieler.macheZug();
                 RundenAktion gegnerAktion = Gegner.macheZug();
+
+                kampffenster.ctnSpieler.zeigeAktionAn(spielerAktion);
+                kampffenster.ctnGegner.zeigeAktionAn(gegnerAktion);
 
                 spielerAktion.ausfuehren(gegnerAktion);
                 gegnerAktion.ausfuehren(spielerAktion);

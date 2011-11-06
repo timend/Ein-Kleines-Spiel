@@ -15,7 +15,7 @@ namespace Ein_Kleines_Spiel
         public override RundenAktion macheZug()
         {
             // KI hier einfügen
-            return new AngriffAktion();
+            return new AngriffAktion(this);
         }
     }
 }
