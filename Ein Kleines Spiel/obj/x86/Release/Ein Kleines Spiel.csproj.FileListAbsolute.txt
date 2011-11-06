@@ -1,0 +1,25 @@
+G:\Dokumente und Einstellungen\Wir\Eigene Dateien\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Dokumente und Einstellungen\Wir\Eigene Dateien\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Form1.resources
+G:\Dokumente und Einstellungen\Wir\Eigene Dateien\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Properties.Resources.resources
+G:\Dokumente und Einstellungen\Wir\Eigene Dateien\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Dokumente und Einstellungen\Wir\Eigene Dateien\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Hauptfenster.resources
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Spieler.resources
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\bin\Release\Ein Kleines Spiel.exe
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\bin\Release\Ein Kleines Spiel.pdb
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein Kleines Spiel.exe
+G:\Dokumente und Einstellungen\Wir\eigene dateien\visual studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein Kleines Spiel.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\bin\Release\Ein Kleines Spiel.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\bin\Release\Ein Kleines Spiel.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein Kleines Spiel.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein Kleines Spiel.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Kartenfenster.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Kartenansicht.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.NeuerCharakter.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Kampffenster.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Ein Kleines Spiel\Ein Kleines Spiel\obj\x86\Release\Ein_Kleines_Spiel.Kampfsteuerung.resources
